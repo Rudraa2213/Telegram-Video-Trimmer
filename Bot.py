@@ -3,9 +3,9 @@ from moviepy import VideoFileClip
 import os
 import asyncio
 
-BOT_TOKEN = "6391184772:AAE2Ifo8hO-M2hm8NYDB4XKBzfQoZbiaSR0"
-API_ID = 9126459
-API_HASH = "238c912d48a9ec0d0e8b05738f358ffc"  
+BOT_TOKEN = ""
+API_ID = 
+API_HASH = ""  
 
 app = Client(
     "my_bot",
